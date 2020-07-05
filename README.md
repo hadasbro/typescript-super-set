@@ -10,19 +10,19 @@
 ![license](https://img.shields.io/badge/license-MIT-green)
 ![Typescript](https://badgen.net/badge/Build-in/Typescript/blue?icon=typescript)
 
-### Installation
-
-    npm i typescript-super-set
-or
-
-    yarn add typescript-super-set
-
-
 ### What is this?
 
 Project is an implementation of Set with custom comparator in Typescript. 
 
 ![Super Set](resources/fruits.png "set of fruits")
+
+
+### How to install it?
+
+    npm i typescript-super-set
+or
+
+    yarn add typescript-super-set
 
 
 ### How it works?
