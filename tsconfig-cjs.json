@@ -1,0 +1,22 @@
+{
+  "compilerOptions": {
+    "moduleResolution": "node",
+    "target": "es5",
+    "module":"CommonJS",
+    "lib": ["es2015", "es2016", "es2017"],
+    "strict": true,
+    "sourceMap": true,
+    "declaration": true,
+    "allowSyntheticDefaultImports": true,
+    "experimentalDecorators": true,
+    "emitDecoratorMetadata": true,
+    "preserveConstEnums": true,
+    "declarationDir": "dist/types/cjs",
+    "outDir": "dist/lib/cjs",
+    "allowJs": false,
+    "typeRoots": [ "./typings", "./node_modules/@types" ]
+  },
+  "include": [
+    "src"
+  ]
+}
