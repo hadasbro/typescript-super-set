@@ -2,9 +2,21 @@
 
 
 ## About
+
+[![Build Status](https://travis-ci.org/hadasbro/typescript-super-set.svg?branch=master)](https://travis-ci.org/hadasbro/typescript-super-set)
+[![Coverage Status](https://coveralls.io/repos/github/hadasbro/typescript-super-set/badge.svg?branch=master)](https://coveralls.io/github/hadasbro/typescript-super-set?branch=master)
 [![semantic-release](https://img.shields.io/badge/%20%20%F0%9F%93%A6%F0%9F%9A%80-semantic--release-e10079.svg)](https://github.com/semantic-release/semantic-release) 
 [![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg)](https://github.com/prettier/prettier)
 ![license](https://img.shields.io/badge/license-MIT-green)
+![Typescript](https://badgen.net/badge/Build-in/Typescript/blue?icon=typescript)
+
+### Installation
+
+    npm i typescript-super-set
+or
+
+    yarn add typescript-super-set
+
 
 ### What is this?
 
@@ -602,6 +614,9 @@ If your target is "ES5", then you need to add `"lib": ["es2015"]` to your tsconf
 
 ## Credits
 Project used [TypeScript library starter](https://github.com/alexjoverm/typescript-library-starter). Thank you very much guys! 
+
+## Documentation
+➡️ https://hadasbro.github.io/typescript-super-set/ ⬅️
 
 ## Do you like this library?
 Give me a star or/and follow me 🙂 
