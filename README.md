@@ -3,13 +3,15 @@
 
 ## About
 [![Documentation](https://img.shields.io/badge/Documentation-%20-green)](https://hadasbro.github.io/typescript-super-set/)
-[![Size](https://img.shields.io/badge/Install%20size-38%20KB-yellow)](https://hadasbro.github.io/typescript-super-set/)
 [![Build Status](https://travis-ci.org/hadasbro/typescript-super-set.svg?branch=master)](https://travis-ci.org/hadasbro/typescript-super-set)
 [![Coverage Status](https://coveralls.io/repos/github/hadasbro/typescript-super-set/badge.svg?branch=master)](https://coveralls.io/github/hadasbro/typescript-super-set?branch=master)
 [![semantic-release](https://img.shields.io/badge/%20%20%F0%9F%93%A6%F0%9F%9A%80-semantic--release-e10079.svg)](https://github.com/semantic-release/semantic-release) 
 [![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg)](https://github.com/prettier/prettier)
 ![license](https://img.shields.io/badge/license-MIT-green)
-![Typescript](https://badgen.net/badge/Build-in/Typescript/blue?icon=typescript)
+[![Npm](https://img.shields.io/badge/npm-v1.0.0-blue)](https://www.npmjs.com/package/typescript-super-set)
+![Typescript](https://badgen.net/badge/built-in/Typescript/blue?icon=typescript)
+[![Size](https://img.shields.io/badge/Install%20size-38%20KB-yellow)](https://hadasbro.github.io/typescript-super-set/)
+
 
 ### What is this?
 
