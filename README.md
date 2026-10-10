@@ -1,7 +1,7 @@
 # Typescript Extended Set
-[![Total Downloads](https://img.shields.io/npm/dt/typescript-super-set?logo=npm)](https://www.npmjs.com/package/typescript-super-set)
 
 ## About
+[![Total Downloads](https://img.shields.io/npm/dt/typescript-super-set?logo=npm)](https://www.npmjs.com/package/typescript-super-set)
 [![Documentation](https://img.shields.io/badge/Documentation-%20-green)](https://hadasbro.github.io/typescript-super-set/)
 [![Build Status](https://travis-ci.org/hadasbro/typescript-super-set.svg?branch=master)](https://travis-ci.org/hadasbro/typescript-super-set)
 [![Coverage Status](https://coveralls.io/repos/github/hadasbro/typescript-super-set/badge.svg?branch=master)](https://coveralls.io/github/hadasbro/typescript-super-set?branch=master)
