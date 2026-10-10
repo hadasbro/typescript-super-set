@@ -1,5 +1,5 @@
 # Typescript Extended Set
-
+[![Total Downloads](https://img.shields.io/npm/dt/typescript-super-set?logo=npm)](https://www.npmjs.com/package/typescript-super-set)
 
 ## About
 [![Documentation](https://img.shields.io/badge/Documentation-%20-green)](https://hadasbro.github.io/typescript-super-set/)
